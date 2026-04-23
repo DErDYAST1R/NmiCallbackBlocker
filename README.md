@@ -81,5 +81,3 @@ You will need to add & use (x) as this is detected by default for Tracing & Trac
 - SpoofCall & SpoofFunc Functions
 # PatchGuard & HVCI
 This will trigger PatchGuard Protections and if trying to bypass PatchGuard will trigger HyperGuard High-Level Protections and if you also use HVCI (say in valorant/VGK) This will trigger a BSOD or block the requests to modify the NMI List and nothing will change. I have figured these issues out on my own for my personal driver but if you have a bypass for PatchGuard / HyperGuard and dont use HVCI Protection (for BE/EAC) this will work.
-# Contact
-Discord Username; bloodieys
